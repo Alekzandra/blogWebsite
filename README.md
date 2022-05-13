@@ -18,10 +18,10 @@ Project is created with:
 
 ## Setup
 In order to run this project locally follow this steps:
-- install dependencies: npm install 
-- run Mongo server: mongod 
-- run the app: nodemon app.js
-Now you should be able to open this project on http://localhost:3000/
+* install dependencies: npm install 
+* run Mongo server: mongod 
+* run the app: nodemon app.js
+* now you should be able to open this project on http://localhost:3000/
 
 ## Project status
 My goal is to add some basic tests to this project. 
